@@ -30,5 +30,4 @@ This is a Kanban board application built using React JS. It allows users to mana
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/shimmer12/quicksell_assignment_frontend.git
+   
